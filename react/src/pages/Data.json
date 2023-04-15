@@ -1,1 +1,15 @@
-{ "name": "윤혜민", "age": 24, "hobby": "잠자기" }
+{
+  "name": "김효리",
+  "birthday": "2003 . 01 . 03",
+  "age": "21살",
+  "id": "60222464",
+  "department": "정보통신공학과",
+  "part": "WEB",
+  "mbti": "ENTP",
+  "hobby": ["쇼핑", "영화감상", "음악듣기"],
+  "special": [
+    { "title": "심심해요", "content": "EVERYDAY\n심심티비" },
+    { "title": "ENTP", "content": "E이긴 E야\n근데 혼자가 좋앙" },
+    { "title": "2학년", "content": "벌써 힘들어요ㅠ" }
+  ]
+}
